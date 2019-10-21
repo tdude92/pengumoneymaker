@@ -1,7 +1,7 @@
 # pengumoneymaker
 Make some money on club penguin. \
 Make sure your monitor is 1920 x 1080 or else you will have a bad time probably. \
-Also, make sure you have an open window running club penguin.
+Also, make sure you have an open browser window running club penguin.
 
 ## SETUP INSTRUCTIONS
 Type this into cmd or bash and follow the instructions. \
